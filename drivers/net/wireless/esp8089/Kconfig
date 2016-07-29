@@ -1,0 +1,7 @@
+config ESP8089
+	tristate "esp8089 wireless support"
+	depends on MAC80211
+	---help---
+	  This is a driver for the esp8089 wireless
+	  chip module.
+

@@ -1,0 +1,1 @@
+cmd_drivers/net/wireless/esp8089/esp8089.ko := ld -EL -r  -T ./scripts/module-common.lds --build-id  -o drivers/net/wireless/esp8089/esp8089.ko drivers/net/wireless/esp8089/esp8089.o drivers/net/wireless/esp8089/esp8089.mod.o

@@ -1,0 +1,2 @@
+0x88f593d6	rockchip_wifi_init_module	drivers/net/wireless/esp8089/esp8089	EXPORT_SYMBOL
+0x4c799f75	rockchip_wifi_exit_module	drivers/net/wireless/esp8089/esp8089	EXPORT_SYMBOL
